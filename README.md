@@ -35,7 +35,8 @@ Not an open source project, paid freelance project so the source code is private
 - Within the users table, admin can edit and add new users to the authorization/database.
 - Route history table only displays all the confirmed routes that are in the database.
 
-
+## Screenshot from the private repository:
+<img src="https://github.com/Luukalindgren/VIC_Kuljetustahvo/assets/70708962/7e69a577-5be0-47e8-a543-37f6eabd81b4" width="500px"/>
 
 ## Screenshots from the webapp:
 <img src="https://github.com/Luukalindgren/VIC_Kuljetustahvo/assets/70708962/bc82d47f-3515-44e0-916e-2888739e0ffc" width="500px"/>
